@@ -25,8 +25,8 @@ public class Relacionais {
         System.out.println(a != b);
 
         double media;
-        media = 6.5;
-        boolean bomComportamento = false;
+        media = 7;
+        boolean bomComportamento = true;
         boolean aprovadoPorMedia = media >= 7;
         boolean resultado = bomComportamento && aprovadoPorMedia;
 
